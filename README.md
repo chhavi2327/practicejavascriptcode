@@ -1,0 +1,2 @@
+# practicejavascriptcode
+practice javascript
